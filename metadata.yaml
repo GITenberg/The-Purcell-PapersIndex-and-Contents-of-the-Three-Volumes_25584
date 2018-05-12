@@ -1,0 +1,41 @@
+_repo: The-Purcell-PapersIndex-and-Contents-of-the-Three-Volumes_25584
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, J. Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    - Fanu, Joseph Sheridan Le
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: Vol. 1. Memoir of Joseph Sheridan Le Fanu. The ghost and the bone-setter.
+  The fortunes of Sir Robert Ardagh. The last heir of Castle Connor. The drunkard's
+  dream. -- Vol. 2. Passage in the secret history of an Irish countess. The bridal
+  of Carrigvarah. Strange event in the life of Schalken the painter. Scraps of Hibernian
+  ballads. -- Vol. 3. Jim Sullivan's adventures in the great snow. A chapter in the
+  history of a Tyrone family. An adventure of Hardress Fitzgerald, a royalist captain.
+  'The quare gander'. Billy Malowney's taste of love and glory.
+gutenberg_issued: '2008-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, English'
+- !lcc 'PR'
+- !lcsh 'Indexes'
+- !lcsh 'Ireland -- Fiction'
+title: 'The Purcell Papers
+
+  Index and Contents of the Three Volumes'
+url: http://www.gutenberg.org/ebooks/25584
